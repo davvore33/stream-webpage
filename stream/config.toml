@@ -1,0 +1,4 @@
+baseURL = "http://welcome.thedavv.stream/"
+languageCode = "it-it"
+title = "Stream Welcome Page"
+theme = "ananke"
